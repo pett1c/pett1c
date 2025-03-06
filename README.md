@@ -1,5 +1,5 @@
 ## 🍃・𝚠𝚑𝚘𝚊𝚖𝚒.ᐣ
-**・** *ꜱᴏᴍᴇᴛɪᴍᴇꜱ ʏᴏᴜ ʜᴀᴠᴇ ᴛᴏ ʟɪᴠᴇ ᴀɴ ɪᴅᴇᴀ ᴛᴏ ɢᴇᴛ ɪᴛ ᴏᴜᴛ ɪɴᴛᴏ ᴛʜᴇ ᴡᴏʀʟᴅ.* <br>
+<p text-align="center">ꜱᴏᴍᴇᴛɪᴍᴇꜱ ʏᴏᴜ ʜᴀᴠᴇ ᴛᴏ ʟɪᴠᴇ ᴀɴ ɪᴅᴇᴀ ᴛᴏ ɢᴇᴛ ɪᴛ ᴏᴜᴛ ɪɴᴛᴏ ᴛʜᴇ ᴡᴏʀʟᴅ.</p><br>
 **・🇨🇭 IT student** <br>
 **・💻 C#, Python, HTML, CSS, JavaScript** <br>
 **・🌌 Making experimental electronic music** <br>
