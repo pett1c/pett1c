@@ -4,7 +4,6 @@
 ###・💻 C#, Python, HTML, CSS, JavaScript
 ###・🌌 Making experimental electronic music
 
-<div align="center">
-    <img alt="footer" src="cozy_caf1e.gif">
-</div>
+![cozy_caf1e](https://github.com/user-attachments/assets/a2aa38f0-51c6-431e-b22e-fae76e1c8f85)
+
 
