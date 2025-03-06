@@ -5,7 +5,7 @@
 **🌌・Making [experimental](https://linktr.ee/wh01sme) electronic music** <br>
 
 <div align="center">
-    <img alt="footer" src="cozy_caf1e.gif">
+    <img alt="footer" src="githubbanner.gif">
 </div>
 
 
